@@ -1,4 +1,4 @@
-![pylint status](https://github.com/fahad-fractal/git-bootcamp/workflows/pylint.yml/badge.svg)
+![pylint status](https://github.com/fahad-fractal/git-bootcamp/workflows/pylint/badge.svg)
 
 # Git branching bootcamp
 
