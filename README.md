@@ -1,4 +1,4 @@
-![pipeline workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
+![pylint status](https://github.com/fahad-fractal/git-bootcamp/.github/workflows/pylint.yml/badge.svg)
 
 # Git branching bootcamp
 
