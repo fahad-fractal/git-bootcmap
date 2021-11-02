@@ -1,1 +1,1 @@
-# git-bootcmap
+# Git branching bootcamp
